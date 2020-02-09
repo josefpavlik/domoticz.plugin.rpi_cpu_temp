@@ -7,5 +7,6 @@ and restart domoticz
 
 SETUP:
 go to Hardware menu, create new hardware using Raspberry CPU temperature. 
-Configure the period, default is 3 seconds
+Configure the period, default is 3 seconds.
+
 that's all
